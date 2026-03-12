@@ -1,0 +1,15 @@
+Always create env variables anytime open up the terminal
+
+in mac
+export FLASK_APP=application.py
+export FLASK_ENV=development
+
+in windows
+$env:FLASK_APP="application.py"
+$env:FLASK_ENV="development"
+
+Flask is a Python web framework used to build:
+websites
+APIs
+web applications
+It helps Python communicate with a web browser.
