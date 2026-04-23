@@ -1,1 +1,1 @@
-This repo consists of my practice works creating APIs
+This repo consists of my practice works creating APIs in Python
